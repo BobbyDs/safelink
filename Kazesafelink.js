@@ -21,7 +21,7 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2017/09/starting-successful-online-business-in.html"}
+if(x=="1"){xxx="/2017/09/8-strong-reasons-to-buy-your-own-health.html"}
 if(x=="2"){xxx="/2017/09/internet-marketing-tips-you-need-to.html"}
 if(x=="3"){xxx="/2017/09/essential-things-to-change-in-insurance.html"}
 if(x=="4"){xxx="/2017/09/saving-time-and-money-with-shipping.html"}a_to_ve[i].href="https://kazeind.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
